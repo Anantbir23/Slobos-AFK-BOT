@@ -8,7 +8,7 @@
   "server": {
     "ip": "noiitians.aternos.me",
     "port": 29594,
-    "version": "26.1.2"
+    "version": "1.21.2"
   },
   "position": {
     "enabled": true,
